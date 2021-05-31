@@ -1,0 +1,14 @@
+I Have a Dream, a song to sing
+To help me cope, with anything
+If you see the wonder, of a fairy tale
+You can take the future, even if you fail
+
+I believe in angels
+Something good in everything I see
+I believe in angels
+When I know the time is right for me
+I'll cross the stream, I Have a Dream
+
+dream.txt에서 첫번째 줄, 세번째 줄, 다섯번째 줄,... -> subdir 밑에 dreams_odd.txt로
+
+*enumerate(): ()의 인덱스까지 같이 가져옴
